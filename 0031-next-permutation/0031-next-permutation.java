@@ -16,7 +16,6 @@ class Solution {
             {
                 if(nums[i]>nums[ind])
                 {
-                    
                     int temp=nums[i];
                     nums[i]=nums[ind];
                     nums[ind]=temp;
