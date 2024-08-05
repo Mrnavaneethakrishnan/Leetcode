@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
