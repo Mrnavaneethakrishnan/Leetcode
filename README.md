@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0125-valid-palindrome) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Backtracking
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0125-valid-palindrome) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
