@@ -105,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0190-reverse-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
