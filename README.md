@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0051-n-queens) |
+| [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
+| [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
