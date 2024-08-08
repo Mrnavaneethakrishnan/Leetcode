@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0190-reverse-bits) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
