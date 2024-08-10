@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
+| [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0051-n-queens) |
 | [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
 | [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Math
 |  |
 | ------- |
@@ -140,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
