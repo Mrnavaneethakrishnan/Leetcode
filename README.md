@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1835-decode-xored-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Two Pointers
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0190-reverse-bits) |
+| [1835-decode-xored-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Divide and Conquer
 |  |
