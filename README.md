@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -187,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
