@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0118-pascals-triangle) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0051-n-queens) |
+| [0118-pascals-triangle](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
 | [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
