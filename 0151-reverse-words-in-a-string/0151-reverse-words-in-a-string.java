@@ -6,10 +6,15 @@ class Solution
         String ans="";
         while(i>=0)
         {
-            while(i>=0 && s.charAt(i)==' ') i--;            
-            if(i<0) break;
+            while(i>=0 && s.charAt(i)==' ') 
+            i--;            
+            if(i<0)
+            {
+                break;
+            }
             int j=i;            
-            while(i>=0 && s.charAt(i)!=' ') i--;
+            while(i>=0 && s.charAt(i)!=' ') 
+            i--;
             if(ans.isEmpty())
             {
                 ans=ans.concat(s.substring(i+1,j+1));
@@ -20,5 +25,13 @@ class Solution
             }
         }
         return ans;
+        //********************************************/
+        // String[] str = s.trim().split("\\s+");
+        // String res = "";
+        // for (int i=str.length-1;i>0;i--) 
+        // {
+        //    res+ =str[i]+" ";  
+        // }
+        // return res+str[0];
     }
 }
