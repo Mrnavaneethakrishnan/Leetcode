@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0198-house-robber) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0917-boats-to-save-people](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0921-spiral-matrix-iii) |
