@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0039-combination-sum) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0042-trapping-rain-water) |
