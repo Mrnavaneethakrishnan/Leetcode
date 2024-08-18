@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0051-n-queens) |
 | [0118-pascals-triangle](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
