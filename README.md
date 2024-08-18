@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0344-reverse-string) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
