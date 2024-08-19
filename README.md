@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
