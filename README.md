@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0389-find-the-difference) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0999-regions-cut-by-slashes](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0389-find-the-difference) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0389-find-the-difference) |
 | [1835-decode-xored-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Divide and Conquer
