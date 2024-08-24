@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0319-bulb-switcher) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Combinatorics
 |  |
@@ -300,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
