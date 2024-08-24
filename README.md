@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3104-happy-students](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3104-happy-students) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Two Pointers
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3104-happy-students](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3104-happy-students) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0319-bulb-switcher) |
+## Enumeration
+|  |
+| ------- |
+| [3104-happy-students](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3104-happy-students) |
 <!---LeetCode Topics End-->
