@@ -2,15 +2,25 @@ class Solution
 {
     public char findTheDifference(String s, String t) 
     {
-        char c=0;
-        for(char cs:s.toCharArray())
+        // char c=0;
+        // for(char cs:s.toCharArray())
+        // {
+        //     c^=cs;
+        // }
+        // for(char ct:t.toCharArray())
+        // {
+        //     c^=ct;
+        // }
+        // return c;
+        int sum=0;
+        for(int i=0;i<t.length();i++)
         {
-            c^=cs;
+            sum=sum+t.charAt(i);
         }
-        for(char ct:t.toCharArray())
+        for(int i=0;i<s.length();i++)
         {
-            c^=ct;
+            sum=sum-s.charAt(i);
         }
-        return c;
+        return (char)sum;
     }
 }
