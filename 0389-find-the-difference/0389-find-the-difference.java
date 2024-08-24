@@ -17,9 +17,9 @@ class Solution
         {
             sum=sum+t.charAt(i);
         }
-        for(int i=0;i<s.length();i++)
+        for(int j=0;j<s.length();j++)
         {
-            sum=sum-s.charAt(i);
+            sum=sum-s.charAt(j);
         }
         return (char)sum;
     }
