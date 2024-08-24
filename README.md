@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
