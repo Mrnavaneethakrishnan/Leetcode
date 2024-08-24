@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0742-to-lower-case](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Mrnavaneethakrishnan/Leetcode/tree/master/1894-merge-strings-alternately) |
